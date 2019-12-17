@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "831357071310",
+    "firebase_url": "https://tvs-service-e36bb.firebaseio.com",
+    "project_id": "tvs-service-e36bb",
+    "storage_bucket": "tvs-service-e36bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831357071310:android:ce9c6298aa69ad8a69c59f",
+        "android_client_info": {
+          "package_name": "com.softdeveloper.tvs_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831357071310-d7e7mbb5tg5ir24ev3uq3nnroeh2nim8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softdeveloper.tvs_service",
+            "certificate_hash": "c4ec9e83b45196d725d08c715bffc72d93c7c557"
+          }
+        },
+        {
+          "client_id": "831357071310-crqmou36acsolrfn90fv9vo2bqqh1539.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAciwWkYfmWtDOHVQto2ep_LN16qzrZ_wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831357071310-crqmou36acsolrfn90fv9vo2bqqh1539.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
